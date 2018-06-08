@@ -1,6 +1,7 @@
 # lebenslauf
-![lebenslauf-1](https://user-images.githubusercontent.com/27078712/41170386-5c0e6a2a-6b4c-11e8-851c-14d5d296a8c2.jpg)
-![lebenslauf-2](https://user-images.githubusercontent.com/27078712/41170387-5c3979a4-6b4c-11e8-822c-bf8f7cd957cc.jpg)
+![lebenslauf-1](https://user-images.githubusercontent.com/27078712/41173033-d43466c2-6b55-11e8-8cb1-d86723fe562a.jpg)
+![lebenslauf-2](https://user-images.githubusercontent.com/27078712/41173035-d46410d4-6b55-11e8-8ecf-55a91c4567af.jpg)
+
 
 [Download der Lebenslauf](https://github.com/itsmecevi/lebenslauf/blob/master/Lebenslauf.pdf)
 
